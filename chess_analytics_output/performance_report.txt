@@ -1,0 +1,38 @@
+
+🏆 CHESS PERFORMANCE ANALYTICS REPORT
+==================================================
+
+📊 OVERALL STATISTICS
+• Total Games Played: 12,467
+• Wins: 6223 (49.9%)
+• Losses: 5868 (47.1%)
+• Draws: 376 (3.0%)
+• Overall Win Rate: 49.9%
+
+📈 RATING ANALYSIS
+• Your Average Rating: 1243
+• Average Opponent Rating: 1241
+• Rating Advantage: +2
+
+⏱️ TIME CONTROL PERFORMANCE
+• Best Performance: daily (58.6% win rate)
+• Worst Performance: blitz (51.0% win rate)
+
+♟️ COLOR PREFERENCE
+• As White: 52.6% win rate
+• As Black: 50.3% win rate
+
+🎯 MOST COMMON RESULTS
+• win: 6217 games (49.9%)
+• timeout: 3389 games (27.2%)
+• checkmated: 1518 games (12.2%)
+
+🌍 GEOGRAPHIC INSIGHTS
+• Countries Faced: 200
+• Most Common Opponent Country: United States
+
+💡 KEY INSIGHTS
+• Rating correlation with results: 0.258
+• Most active time control: blitz
+• Average games per opponent: 1.1
+• Games per month: 231.0
