@@ -22,6 +22,19 @@ A comprehensive chess performance analytics tool that fetches data from Chess.co
 - **Exports** data for further analysis
 ---
 
+## 📸 Examples
+
+### Dashboard Preview
+![Chess Dashboard1](https://github.com/Fayed-Rsl/chess-analyzer/blob/main/chess_analytics_output/chess_performance_dashboard.png)
+![Chess Dashboard2](https://github.com/Fayed-Rsl/chess-analyzer/blob/main/chess_analytics_output/chess_advanced_analytics.png)
+*Professional 14-panel performance dashboard with modern dark theme*
+
+### Interactive World Map
+![World Map](https://github.com/Fayed-Rsl/chess-analyzer/blob/main/chess_analytics_output/chess_world_map.html)
+*Geographic performance analysis with interactive tooltips*
+
+---
+
 ## 🚀 Installation
 
 ### Prerequisites
@@ -106,18 +119,6 @@ chess_analytics_output/
 ├── performance_report.txt              # Detailed text report
 └── chess_performance_data.csv          # Raw analyzed data
 ```
-
----
-
-## 📸 Examples
-
-### Dashboard Preview
-![Chess Dashboard]()
-*Professional 14-panel performance dashboard with modern dark theme*
-
-### Interactive World Map
-![World Map]()
-*Geographic performance analysis with interactive tooltips*
 
 ---
 
