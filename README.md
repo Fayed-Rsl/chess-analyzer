@@ -4,7 +4,7 @@
   ![Chess.com](https://img.shields.io/badge/Data-Chess.com_API-orange.svg)
   ![Analytics](https://img.shields.io/badge/Analytics-Advanced-purple.svg)
 
-  *Professional chess performance analysis with stunning visualizations*
+  * Chess performance analysis with stunning visualizations*
 
 [Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Examples](#-examples) • [Documentation](#-documentation)
 
@@ -12,7 +12,7 @@
 
 ## 📋 Overview
 
-A comprehensive chess performance analytics tool that fetches data from Chess.com and generates professional-grade visualizations and insights. Perfect for chess players looking to analyze their game patterns, identify strengths/weaknesses, and track improvement over time.
+A comprehensive chess performance analytics tool that fetches data from Chess.com and generates visualizations and insights. Perfect for chess players looking to analyze their game patterns, identify strengths/weaknesses, and track improvement over time.
 
 ### 🎯 What it does:
 - **Fetches** complete game history from Chess.com API
@@ -27,7 +27,7 @@ A comprehensive chess performance analytics tool that fetches data from Chess.co
 ### Dashboard Preview
 ![Chess Dashboard1](https://github.com/Fayed-Rsl/chess-analyzer/blob/main/chess_analytics_output/chess_performance_dashboard.png)
 ![Chess Dashboard2](https://github.com/Fayed-Rsl/chess-analyzer/blob/main/chess_analytics_output/chess_advanced_analytics.png)
-*Professional 14-panel performance dashboard with modern dark theme*
+* 14-panel performance dashboard with modern dark theme*
 
 ### Interactive World Map
 ![World Map](https://github.com/Fayed-Rsl/chess-analyzer/blob/main/chess_analytics_output/chess_world_map.html)
